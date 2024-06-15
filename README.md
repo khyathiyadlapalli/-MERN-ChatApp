@@ -1,0 +1,1 @@
+I have built a Chat application where we can send and receive messages in realtime. I have used MERN stack approach to develop this app. For more, I have integrated the socket.io on Reactjs client side.
