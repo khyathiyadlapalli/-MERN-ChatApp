@@ -1,1 +1,4 @@
-I have built a Chat application where we can send and receive messages in realtime. I have used MERN stack approach to develop this app. For more, I have integrated the socket.io on Reactjs client side.
+
+# MERN Chat Application
+
+A real-time chat application built using the MERN stack (MongoDB, Express.js, React, Node.js) with socket.io integration for real-time messaging.
